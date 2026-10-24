@@ -9,6 +9,8 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 1 | 2026-10-11 | Kamal Khatwani | Building WTF to date, at rebuild cost on rate card v2 (breakdown below) | 50,500 | provisional | |
 | 2 | 2026-10-15 | Kamal Khatwani | Work (99%) on #4: Sharp SVG WTF? hero mark with the question mark's dot | 1,485 | provisional | https://github.com/kamal0808/wtf/pull/2 |
 | 3 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #4: Sharp SVG WTF? hero mark with the question mark's dot (backfilled; accepted 2026-10-14) | 15 | provisional | https://github.com/topc-social/wtf-tasks/issues/4 |
+| 4 | 2026-10-25 | Kamal Khatwani | Idea (1%) for #8: Rants can carry a screenshot | 30 | provisional | https://github.com/kamal0808/wtf/pull/3 |
+| 5 | 2026-10-25 | Kamal Khatwani | Work (99%) on #8: Rants can carry a screenshot | 2,970 | provisional | https://github.com/kamal0808/wtf/pull/3 |
 
 ## Row 1 breakdown (rebuild cost, rate card v2, 2026-10-11)
 

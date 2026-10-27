@@ -23,6 +23,8 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 15 | 2026-10-27 | Kamal Khatwani | Work (99%) on #10: Show airline complaint numbers from DGCA on the WTF wall | 6,435 | provisional | https://github.com/kamal0808/wtf/pull/7 |
 | 16 | 2026-10-27 | Kamal Khatwani | Idea (1%) for #11: Put real airline court cases on the WTF wall as receipt cards | 45 | provisional | https://github.com/kamal0808/wtf/pull/7 |
 | 17 | 2026-10-27 | Kamal Khatwani | Work (99%) on #11: Put real airline court cases on the WTF wall as receipt cards | 4,455 | provisional | https://github.com/kamal0808/wtf/pull/7 |
+| 18 | 2026-10-27 | Kamal Khatwani | Idea (1%) for #14: Click a brand on WTF, see its complaint links from the internet | 15 | provisional | https://github.com/kamal0808/wtf/pull/7 |
+| 19 | 2026-10-27 | Kamal Khatwani | Work (99%) on #14: Click a brand on WTF, see its complaint links from the internet | 1,485 | provisional | https://github.com/kamal0808/wtf/pull/7 |
 
 ## Row 1 breakdown (rebuild cost, rate card v2, 2026-10-11)
 

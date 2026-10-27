@@ -15,6 +15,8 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 7 | 2026-10-25 | Kamal Khatwani | Work (99%) on #7: Post to WTF from your own agent: a connector with post_rant | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/141 |
 | 8 | 2026-10-27 | Kamal Khatwani | Idea (1%) for #9: Find open datasets of Indian consumer complaints by brand | 30 | provisional | https://github.com/kamal0808/wtf/pull/4 |
 | 9 | 2026-10-27 | Kamal Khatwani | Work (99%) on #9: Find open datasets of Indian consumer complaints by brand | 2,970 | provisional | https://github.com/kamal0808/wtf/pull/4 |
+| 10 | 2026-10-27 | Kamal Khatwani | Idea (1%) for #12: Can we pull district consumer court orders from e-Jagriti for free? | 30 | provisional | https://github.com/kamal0808/wtf/pull/5 |
+| 11 | 2026-10-27 | Kamal Khatwani | Work (99%) on #12: Can we pull district consumer court orders from e-Jagriti for free? | 2,970 | provisional | https://github.com/kamal0808/wtf/pull/5 |
 
 ## Row 1 breakdown (rebuild cost, rate card v2, 2026-10-11)
 

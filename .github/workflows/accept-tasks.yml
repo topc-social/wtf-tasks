@@ -60,13 +60,14 @@ jobs:
                 worker = handIn.user.login;
               }
             }
-            const ideaBy = ((issue.body || '').match(/^Idea:\s*@([\w-]+)/m) || [, KAMAL])[1];
+            // "Idea: @login", or "Idea: [Full Name](profile link)" for someone without GitHub (ideato-tasks#204).
+            const ideaLine = (issue.body || '').match(/^Idea:\s*(?:@([\w-]+)|\[([^\]|]+)\]\()/m) || [];
 
             const say = (body) => github.rest.issues.createComment({ ...context.repo, issue_number: issue.number, body });
             const neki = Number((names.find((n) => /^neki:\d+$/.test(n)) || 'neki:0').slice(5));
             if (!neki) return say('Accepted: closed as completed by the owner. No `neki:N` label, so no ledger rows were added.');
 
-            const ideaName = await nameOf(ideaBy, false), workName = await nameOf(worker, true);
+            const ideaName = ideaLine[2] || await nameOf(ideaLine[1] || KAMAL, false), workName = await nameOf(worker, true);
             const date = new Date().toLocaleDateString('en-CA', { timeZone: 'Asia/Kolkata' });
             const fmt = (n) => n.toLocaleString('en-IN');
             const title = issue.title.replace(/\|/g, '/');
